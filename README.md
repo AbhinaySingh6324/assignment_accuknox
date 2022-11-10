@@ -9,7 +9,7 @@
 
 ### `maintask1.py` - Code submission of the Task1 from the assignment.
 
-### `maintask1.py`- Code submission of the Task2 from the assignment.
+### `maintask2.py`- Code submission of the Task2 from the assignment.
 
 ### `test.py`- unit test for the Task1 form the assignment.
 
