@@ -1,4 +1,4 @@
-# Python Developper assignment_accuknox
+# Python Assignment Accuknox
 
 
 ### `Accuknox2.txt` -  the log file producing the top 3 most selling item case from the problem statement.
