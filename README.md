@@ -1,8 +1,7 @@
 # Python Developper assignment_accuknox
 
-Submitted By - Abhinay Kumar Singh
 
-Accuknox2.txt -  the log file producing the top 3 most selling item case from the problem statement.
+### `Accuknox2.txt` -  the log file producing the top 3 most selling item case from the problem statement.
 
 Accuknox3.txt -  the log file producing multiple order from one customer.
 
